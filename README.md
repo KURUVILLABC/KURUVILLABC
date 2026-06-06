@@ -62,15 +62,17 @@
 <!-- Current Status -->
 <div align="center">
   <table border="1" cellpadding="15" cellspacing="0" style="border-color: #00D4FF; border-radius: 10px; width: 80%; margin: 20px auto;">
+    <tr>
+      <th><h3>🔭 Currently Exploring</h3></th>
+      <th><h3>🎯 My Goal</h3></th>
+    </tr>
     <tr style="background: linear-gradient(135deg, #00D4FF 0%, #0D1117 100%);">
       <td align="center" width="50%">
-        <h3>🔭 Currently Exploring</h3>
         <p><code>Agentic AI Systems</code></p>
         <p><code>Prompt Engineering</code></p>
         <p><code>LLM Integration</code></p>
       </td>
       <td align="center" width="50%">
-        <h3>🎯 My Goal</h3>
         <p><code>Lead in Full Stack + AI</code></p>
         <p><code>Build Intelligent Apps</code></p>
         <p><code>Inspire Others</code></p>
@@ -88,8 +90,12 @@
 
 <table align="center" border="0" cellpadding="15">
   <tr>
+    <th><h3>💬 Languages</h3></th>
+    <th><h3>🎨 Frontend</h3></th>
+    <th><h3>⚙️ Backend</h3></th>
+    <th><h3>🤖 AI/ML</h3></th>
+  <tr>
     <td align="center" width="30%">
-      <h3>💬 Languages</h3>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       <br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -103,7 +109,6 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
     </td>
     <td align="center" width="25%">
-      <h3>🎨 Frontend</h3>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
       <br/>
       <img src="https://img.shields.io/badge/Aurelia-ED2B88?style=flat-square&logo=aurelia&logoColor=white" alt="Aurelia"/>
@@ -115,7 +120,6 @@
       <img src="https://img.shields.io/badge/Interactive-00D4FF?style=flat-square&logoColor=white" alt="Interactive"/>
     </td>
     <td align="center" width="25%">
-      <h3>⚙️ Backend</h3>
       <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
       <br/>
       <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -125,7 +129,6 @@
       <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square&logoColor=white" alt="Database"/>
     </td>
     <td align="center" width="25%">
-      <h3>🤖 AI/ML</h3>
       <img src="https://img.shields.io/badge/Agentic_AI-FF6B6B?style=flat-square&logo=robot&logoColor=white" alt="Agentic AI"/>
       <br/>
       <img src="https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square&logoColor=white" alt="Prompt Engineering"/>
