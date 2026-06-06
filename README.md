@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/kuruvilla-biju-cheruvallil-b28475206/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </div>
 
 ---
@@ -187,8 +184,18 @@ I'm a **Full Stack Developer** passionate about creating elegant, scalable solut
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KURUVILLABC&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KURUVILLABC&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Top Languages"/>
+  
+### 📈 Stats Overview
+Visit my GitHub profile to see live statistics and contribution graphs:
+  
+[→ View Full Profile](https://github.com/KURUVILLABC)
+
+**Key Metrics:**
+- 13+ Public Repositories
+- Full Stack Development
+- AI/ML Projects
+- Active Contributor
+
 </div>
 
 ---
@@ -241,9 +248,9 @@ I'm always interested in:
 - 📢 Speaking about AI/ML and Web Development
 - 📧 Mentoring and knowledge sharing
 
-**Want to work together?** Get in touch!
+**Want to work together?**
 
-[Portfolio](https://iamkuruvilla.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/kuruvilla-biju-cheruvallil-b28475206/) • [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/kuruvilla-biju-cheruvallil-b28475206/) • [Portfolio](https://iamkuruvilla.netlify.app/)
 
 </div>
 
