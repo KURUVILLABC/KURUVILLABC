@@ -192,11 +192,6 @@ Visit my GitHub profile to see live statistics and contribution graphs:
 
 **Key Metrics:**
 - 13+ Public Repositories
-- Full Stack Development
-- AI/ML Projects
-- Active Contributor
-
-</div>
 
 ---
 
