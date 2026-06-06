@@ -28,11 +28,15 @@
   </p>
 </div>
 
-<table align="center" border="0" cellpadding="20">
+<table align="center" border="1" cellpadding="5">
+  <tr>
+    <th><b>What I Do</b></th>
+    <th></th>
+    <th><b>What Drives Me</b></th>
+  </tr>
   <tr>
     <td width="50%">
       
-**💻 What I Do:**
 - 🎹 Build AI-powered applications
 - 🏗️ Design scalable architectures  
 - 🎨 Craft beautiful UX/UI
@@ -40,14 +44,14 @@
 - 🤝 Create innovative solutions
 
     </td>
-    <td width="50%">
+    <td width="1%" border></td>
+    <td width="49%">
 
-**🧠 What Drives Me:**
-- 🚀 Building products with impact
-- 📚 Continuous learning mindset
-- 🔧 Solving complex problems
-- 💡 Creative engineering
-- 🌍 Open source contribution
+ - 🚀 Building products with impact 
+ - 📚 Continuous learning mindset
+ - 🔧 Solving complex problems
+ - 💡 Creative engineering
+ - 🌍 Open source contribution
 
     </td>
   </tr>
@@ -84,7 +88,7 @@
 
 <table align="center" border="0" cellpadding="15">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="30%">
       <h3>💬 Languages</h3>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       <br/>
