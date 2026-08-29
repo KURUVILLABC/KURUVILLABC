@@ -156,12 +156,12 @@
 
 <td width="50%" valign="top">
 
-### 🎹 Pianissist-AI
-**Transform voice into beautiful piano melodies using machine learning**
+### TwinSphere
+**Complete Ai Build Application**
 
-[![View Repo](https://img.shields.io/badge/→_View_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KURUVILLABC/Pianissist-AI)
+[![View Repo](https://img.shields.io/badge/→_View_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/KuruvillaAI/repositories)
 
-`JavaScript` `TensorFlow` `Web Audio API` `AI/ML` `Real-time Processing`
+`AI/ML` `Projet revealing soon...`
 
 Real-time piano composition | Voice-to-MIDI conversion | Intelligent note generation
 
