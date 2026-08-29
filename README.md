@@ -161,9 +161,9 @@
 
 [![View Repo](https://img.shields.io/badge/→_View_Repository-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/KuruvillaAI/repositories)
 
-`AI/ML` `Projet revealing soon...`
+`AI/ML` `ChatBot`
 
-Real-time piano composition | Voice-to-MIDI conversion | Intelligent note generation
+Projet revealing soon...
 
 
 </td>
